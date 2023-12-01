@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to create a language model that generates text in the style of a selected influencer, such as Justin Welsh. It involves data gathering from social media, data processing, sentiment analysis, and fine-tuning a GPT-2 language model. Users can then interact with the model through a simple interface.
+This project aims to create a language model that generates text in the style of a selected influencer. It involves data gathering from social media, data processing, sentiment analysis, and fine-tuning a GPT-2 language model. Users can then interact with the model through a simple interface.
 
 ## Requirements
 
